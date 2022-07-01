@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é <strong>{Ricardo Martins}!</strong>
+## 💜 Olá, meu nome é <strong>Ricardo Martins!</strong>
 
 > Sou um jovem em busca de evoluir mais e mais na área da ciência da computação!
 
